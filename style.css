@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+
+h1{ 
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+
+#1{ 
+    background-color: rgb(171, 246, 246),rgb(142, 142, 247);
+}
+
+#2{ 
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: rgb(252, 163, 163),rgb(159, 242, 159);
+}
